@@ -1,2 +1,4 @@
-# ml_classifiers_examples
+# Machine learning classifiers examples
 Examples for machine learning classifers
+
+- Naive bayes
